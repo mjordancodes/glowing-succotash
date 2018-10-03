@@ -1,0 +1,23 @@
+body {
+    width: 50vw;
+    margin: 0 auto;
+}
+
+h1, h2 {
+    color: #6574b6;
+}
+
+img {
+    display: block;
+    width: 100%;
+}
+
+ul li{
+    list-style-position: inside;
+    text-align: center;
+}
+
+.puppy {
+    width: 50%;
+    float: left;
+}
